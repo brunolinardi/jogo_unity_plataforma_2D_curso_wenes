@@ -11,7 +11,7 @@ This is my first platform game made with Unity version 2019.4.18f1. It's quite s
    * [How to Use](#how-to-use)
    * [Features](#features)
    * [Technologies](#technologies)
-   * [Contact Information](#contact-information)
+   * [Author](#author)
    * [License](#license)
 <!--te-->
 
@@ -31,15 +31,12 @@ The following tools were used to make this project
 
 - [Unity3D](https://unity.com/)
 
-## Contact Information
-Bruno Linardi
-- [LinkedIn](https://www.linkedin.com/in/brunolinardi/)
-- [E-Mail](mailto:brunolinardi@gmail.com)
-
 ## Author
 Made by Bruno Linardi 👋🏽 Contact me!
 
 [![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=%40brunolinardi&logo=twitter&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fbrunolinardi)](https://twitter.com/brunolinardi)
+- [LinkedIn](https://www.linkedin.com/in/brunolinardi/)
+- [E-Mail](mailto:brunolinardi@gmail.com)
 
 ## License
 MIT
