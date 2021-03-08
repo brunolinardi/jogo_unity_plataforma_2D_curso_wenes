@@ -11,6 +11,7 @@ This is my first platform game made with Unity version 2019.4.18f1. It's quite s
    * [How to Use](#how-to-use)
    * [Features](#features)
    * [Technologies](#technologies)
+   * [Versioning](#versioning)
    * [Author](#author)
    * [License](#license)
 <!--te-->
@@ -30,6 +31,10 @@ This prototype was made using version 2019.4.18f1 of Unity Engine. Just open it 
 The following tools were used to make this project
 
 - [Unity3D](https://unity.com/)
+
+## Versioning
+
+0.1.0
 
 ## Author
 Made by Bruno Linardi 👋🏽 Contact me!
