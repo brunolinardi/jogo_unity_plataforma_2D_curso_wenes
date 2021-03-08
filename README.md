@@ -1,7 +1,7 @@
 # A generic Unity 2D platform game
 
 ## About
-This game is my first platform game made with Unity version 2019.4.18f1. It's quite simple and it still needs some final touches
+This is my first platform game made with Unity version 2019.4.18f1. It's quite simple and it still needs some final touches
 
 ## Table of Contents
 <!--ts-->
