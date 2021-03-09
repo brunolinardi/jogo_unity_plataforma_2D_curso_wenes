@@ -39,9 +39,7 @@ The following tools were used to make this project
 ## Author
 Made by Bruno Linardi 👋🏽 Contact me!
 
-[![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=%40brunolinardi&logo=twitter&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fbrunolinardi)](https://twitter.com/brunolinardi)
-- [LinkedIn](https://www.linkedin.com/in/brunolinardi/)
-- [E-Mail](mailto:brunolinardi@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@brunolinardi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brunolinardi)](https://twitter.com/brunolinardi) [![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolinardi/)](https://www.linkedin.com/in/brunolinardi/) [![Gmail Badge](https://img.shields.io/badge/-brunolinardi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunolinardi@gmail.com)](mailto:brunolinardi@gmail.com)
 
 ## License
 MIT
